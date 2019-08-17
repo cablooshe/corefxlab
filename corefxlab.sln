@@ -123,6 +123,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ALCProxy.TestInterfaceUpdat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ALCProxy.TestInterface", "tests\ALCProxy.TestInterface\ALCProxy.TestInterface.csproj", "{6435C875-F526-45E1-97E1-B5BF8C4F9A55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppDomainComparison", "samples\AppDomainComparison\AppDomainComparison.csproj", "{141C40D0-55C1-4F39-9239-676DA03D9E9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -781,6 +783,18 @@ Global
 		{6435C875-F526-45E1-97E1-B5BF8C4F9A55}.Release|x64.Build.0 = Release|Any CPU
 		{6435C875-F526-45E1-97E1-B5BF8C4F9A55}.Release|x86.ActiveCfg = Release|Any CPU
 		{6435C875-F526-45E1-97E1-B5BF8C4F9A55}.Release|x86.Build.0 = Release|Any CPU
+		{141C40D0-55C1-4F39-9239-676DA03D9E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141C40D0-55C1-4F39-9239-676DA03D9E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141C40D0-55C1-4F39-9239-676DA03D9E9E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{141C40D0-55C1-4F39-9239-676DA03D9E9E}.Debug|x64.Build.0 = Debug|Any CPU
+		{141C40D0-55C1-4F39-9239-676DA03D9E9E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{141C40D0-55C1-4F39-9239-676DA03D9E9E}.Debug|x86.Build.0 = Debug|Any CPU
+		{141C40D0-55C1-4F39-9239-676DA03D9E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141C40D0-55C1-4F39-9239-676DA03D9E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{141C40D0-55C1-4F39-9239-676DA03D9E9E}.Release|x64.ActiveCfg = Release|Any CPU
+		{141C40D0-55C1-4F39-9239-676DA03D9E9E}.Release|x64.Build.0 = Release|Any CPU
+		{141C40D0-55C1-4F39-9239-676DA03D9E9E}.Release|x86.ActiveCfg = Release|Any CPU
+		{141C40D0-55C1-4F39-9239-676DA03D9E9E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -840,6 +854,7 @@ Global
 		{8F6F600E-5EFB-44B3-80DE-808974A2998A} = {3079E458-D0E6-4F99-8CAB-80011D35C7DA}
 		{14FDEB76-14AE-4332-819C-1E8054855469} = {3079E458-D0E6-4F99-8CAB-80011D35C7DA}
 		{6435C875-F526-45E1-97E1-B5BF8C4F9A55} = {3079E458-D0E6-4F99-8CAB-80011D35C7DA}
+		{141C40D0-55C1-4F39-9239-676DA03D9E9E} = {E1DE693E-C1FB-4A1F-B6D8-A071D86D7354}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9DD4022C-A010-4A9B-BCC5-171566D4CB17}
